@@ -1,3 +1,4 @@
+
 ## Hi there, I'm Govinda Vashishtha, It's nice to meet you. 👋
 
 ### I'm a Student, Developer, and part time gamer!!!
@@ -8,8 +9,7 @@
 - 🥅 2020 Goals: Contribute to Open Source projects and grab a handsome job
 - ⚡ Fun fact: I love to draw and play FPS games
 
-### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
+### Connect with me:
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
@@ -30,6 +30,8 @@
 
 <br />
 <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindavashishtha&show_icons=true&theme=dark)
 
 ---
 
