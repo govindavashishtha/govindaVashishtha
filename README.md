@@ -1,6 +1,6 @@
-### Hi there, I'm Govinda Vashishtha, It's nice to meet you. 👋
+## Hi there, I'm Govinda Vashishtha, It's nice to meet you. 👋
 
-## I'm a Student, Developer, and part time gamer!!!
+### I'm a Student, Developer, and part time gamer!!!
 
 - 🔭 I'm a travel enthusiast
 - 🌱 I’m currently learning everything
