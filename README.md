@@ -1,7 +1,7 @@
 ### Hi there, I'm Govinda Vashishtha, It's nice to meet you. 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/govindavashist?style=social)][twitter]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/govindavashist?style=for-the-badge)][twitter]
 
 ## I'm a Student, Developer, and part time gamer!!!
 
