@@ -43,7 +43,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Video
 
 <!-- YOUTUBE:START -->
 
