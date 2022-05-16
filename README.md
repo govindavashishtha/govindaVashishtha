@@ -5,8 +5,7 @@
 
 - 🔭 I'm a travel enthusiast
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects and grab a handsome job
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play FPS games
 
 ### Connect with me:
