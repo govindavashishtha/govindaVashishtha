@@ -5,7 +5,7 @@
 
 - 🔭 I'm a travel enthusiast
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play FPS games
 
 ### Connect with me:
