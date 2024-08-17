@@ -5,7 +5,7 @@
 
 - 🔭 I'm a travel enthusiast
 - 🌱 I’m currently learning everything
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
