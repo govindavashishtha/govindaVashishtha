@@ -1,11 +1,11 @@
 
 ## Hi there, I'm Govinda Vashishtha, It's nice to meet you. 👋
 
-### I'm a Student, Developer, and part time gamer!!!
+### I'm a Blockchain + Fullstack Developer, and part time gamer!!!
 
 - 🔭 I'm a travel enthusiast
 - 🌱 I’m currently learning everything
-- 🥅 2024 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
